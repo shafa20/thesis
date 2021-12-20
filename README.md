@@ -1,1 +1,2 @@
-# thesis...rhis is running  not finished
+# thesis...successfully finished
+
